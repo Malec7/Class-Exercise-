@@ -1,0 +1,14 @@
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\bin\Debug\net9.0\Class-Exercise.exe
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\bin\Debug\net9.0\Class-Exercise.deps.json
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\bin\Debug\net9.0\Class-Exercise.runtimeconfig.json
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\bin\Debug\net9.0\Class-Exercise.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\bin\Debug\net9.0\Class-Exercise.pdb
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\obj\Debug\net9.0\Class-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\obj\Debug\net9.0\Class-Exercise.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\obj\Debug\net9.0\Class-Exercise.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\obj\Debug\net9.0\Class-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\obj\Debug\net9.0\Class-Exercise.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\obj\Debug\net9.0\refint\Class-Exercise.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\obj\Debug\net9.0\Class-Exercise.pdb
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\obj\Debug\net9.0\Class-Exercise.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Class-Exercise-\Class-Exercise\Class-Exercise\obj\Debug\net9.0\ref\Class-Exercise.dll
